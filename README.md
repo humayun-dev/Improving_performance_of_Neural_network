@@ -3,4 +3,5 @@
     <li>Early Stopping</li>
     <li>Normalizing input features</li>
     <li>Dropout-regression</li>
+    <li>Regularization - L2 </li>
 </ol>
