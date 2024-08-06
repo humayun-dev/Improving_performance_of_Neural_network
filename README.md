@@ -2,4 +2,5 @@
 <ol>
     <li>Early Stopping</li>
     <li>Normalizing input features</li>
+    <li>Dropout-regression</li>
 </ol>
