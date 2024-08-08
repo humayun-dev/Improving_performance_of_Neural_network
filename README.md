@@ -5,4 +5,5 @@
     <li>Dropout-regression</li>
     <li>Regularization - L2 </li>
     <li>Weight Initialization Techniques </li>
+    <li>Keras Tuner Hyperparameters</li>
 </ol>
